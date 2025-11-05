@@ -1,0 +1,13 @@
+customer_id,name,email,source
+101,John Doe,john.doe@example.com,salesforce
+102,Jane Smith,jane.smith@example.com,salesforce
+103,Bob Johnson,bob.johnson@example.com,salesforce
+104,Sarah Wilson,sarah.wilson@example.com,salesforce
+103,Bob Johnson,bob.johnson@example.com,hubspot
+104,Sarah Wilson,sarah.wilson@example.com,hubspot
+105,Alice Williams,alice.williams@example.com,hubspot
+106,Charlie Brown,charlie.brown@example.com,hubspot
+102,Jane Smith,jane.smith@example.com,internal
+105,Alice Williams,alice.williams@example.com,internal
+107,David Lee,david.lee@example.com,internal
+108,Emma Davis,emma.davis@example.com,internal
