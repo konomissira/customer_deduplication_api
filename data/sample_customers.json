@@ -1,0 +1,76 @@
+{
+  "customers": [
+    {
+      "customer_id": 101,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "source": "salesforce"
+    },
+    {
+      "customer_id": 102,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "source": "salesforce"
+    },
+    {
+      "customer_id": 103,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "source": "salesforce"
+    },
+    {
+      "customer_id": 104,
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "source": "salesforce"
+    },
+    {
+      "customer_id": 103,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "source": "hubspot"
+    },
+    {
+      "customer_id": 104,
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "source": "hubspot"
+    },
+    {
+      "customer_id": 105,
+      "name": "Alice Williams",
+      "email": "alice.williams@example.com",
+      "source": "hubspot"
+    },
+    {
+      "customer_id": 106,
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "source": "hubspot"
+    },
+    {
+      "customer_id": 102,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "source": "internal"
+    },
+    {
+      "customer_id": 105,
+      "name": "Alice Williams",
+      "email": "alice.williams@example.com",
+      "source": "internal"
+    },
+    {
+      "customer_id": 107,
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "source": "internal"
+    },
+    {
+      "customer_id": 108,
+      "name": "Emma Davis",
+      "email": "emma.davis@example.com",
+      "source": "internal"
+    }
+  ]
+}
